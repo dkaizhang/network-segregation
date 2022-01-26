@@ -1,0 +1,7 @@
+*.eps
+*.svg
+/*/
+network-0.ipynb
+network-nb.ipynb
+.DS_Store
+beta.ipynb
